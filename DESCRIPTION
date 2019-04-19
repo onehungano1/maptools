@@ -1,0 +1,10 @@
+Package: maptools
+Type: Package
+Title: Call API And Create Map
+Version: 0.1.0
+Author: Frank Huang <huangbingfrank@homtail.com>
+Maintainer: Frank Huang <huangbingfrank@homtail.com>
+Description: Testing out functionalities.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
