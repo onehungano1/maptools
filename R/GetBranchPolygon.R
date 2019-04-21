@@ -6,6 +6,7 @@
 #' @return spatial dataframe containing the result
 #' @export
 #'
+#' @importFrom osrm osrmIsochrone
 #' @examples
 #' \dontrun{
 #' getPolygonsfromOSRM(ds)

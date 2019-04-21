@@ -11,3 +11,9 @@ LazyData: true
 RoxygenNote: 6.1.1
 URL: https://github.com/onehungano1/maptools
 BugReports: https://github.com/onehungano1/maptools/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    osrm

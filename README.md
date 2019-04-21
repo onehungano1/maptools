@@ -4,7 +4,8 @@ maptools
 ========
 
 <!-- badges: start -->
-<!-- badges: end -->
+[![Travis build status](https://travis-ci.org/onehungano1/maptools.svg?branch=master)](https://travis-ci.org/onehungano1/maptools) <!-- badges: end -->
+
 The goal of maptools is to ...
 
 Installation
