@@ -4,7 +4,7 @@ maptools
 ========
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/onehungano1/maptools.svg?branch=master)](https://travis-ci.org/onehungano1/maptools) <!-- badges: end -->
+[![Travis build status](https://travis-ci.org/onehungano1/maptools.svg?branch=master)](https://travis-ci.org/onehungano1/maptools) [![Codecov test coverage](https://codecov.io/gh/onehungano1/maptools/branch/master/graph/badge.svg)](https://codecov.io/gh/onehungano1/maptools?branch=master) <!-- badges: end -->
 
 The goal of maptools is to ...
 
