@@ -14,7 +14,8 @@ BugReports: https://github.com/onehungano1/maptools/issues
 Suggests: 
     knitr,
     rmarkdown,
-    covr
+    covr,
+    testthat
 VignetteBuilder: knitr
 Imports: 
     osrm

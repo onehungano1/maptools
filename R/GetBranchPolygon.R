@@ -25,3 +25,19 @@ getPolygonsfromOSRM <- function(x){
   return(branch.spdf)
 }
 
+
+
+#' Simple function to test
+#'
+#'
+#' @param x some number
+#'
+#' @return some number
+#' @export
+#'
+#' @examples
+#' do_some_cal(5)
+do_some_cal <- function(x){
+  return(x + 1)
+}
+
